@@ -1,0 +1,5 @@
+1. 2, because it is the neccessary part to complete the illustration in the middle.
+2. 2, because from left to right the image on the first one is smaller and it became larger and larger.
+3. 3, because the third image is the combination of the first and second image and also started on the far left side.
+4. 4, becase the cirlce and the box changes to fill and not fill in every transition, and moving to towards each other. the line is going upwards.
+5. 3, because the box move sideways to the right and it started to upper left corner while the cirlce is always going upwards.
